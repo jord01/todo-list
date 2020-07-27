@@ -10,14 +10,20 @@ body {
  .center {
   margin: 0 auto;
   width: 50%;
-  padding: 10px;
+  padding: 20px;
   min-height: 10vh;
   text-align: center;
 }
-
 #userinput, #enter {
 	font-size: 1.2rem;
 }
 ul {
 	list-style-type: none;
 }
+.trash-btn {
+ 	color: #ff6f47;
+ 	border: none;
+ 	padding: 1rem;
+ 	cursor: pointer;
+ 	font-size: 1rem;
+ }
